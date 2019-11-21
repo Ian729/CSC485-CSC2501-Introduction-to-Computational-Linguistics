@@ -1,0 +1,5 @@
+Date	Topic	Reading
+6-13 Sept	Introduction to computational linguistics	J&M: 1; BK&L: 1, 2.3, 4 as necessary
+13-27 Sept	Grammars and parsing	J&M: 5.0-1, 12.0-12.3.5, 12.3.7, 12.7-12.7.1, 13.1, 13.2; BK&L: 8.0-8.5
+30 Sep - 4 Oct	Lexical semantics	J&M: 19.1-5, 20.8
+7-11 Oct	Word sense disambiguation	J&M: 20.1-5

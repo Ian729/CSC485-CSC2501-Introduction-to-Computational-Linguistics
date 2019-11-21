@@ -1,0 +1,14 @@
+Essay	Due Date	Title	Author	Publication Details
+1	13th September	Computing Machinery and Intelligence	A. Turing	Mind 59, 1950, pp. 433-460.
+2	27th September	Fast Context-Free Grammar Parsing Requires Fast Boolean Matrix Multiplication	L. Lee	JACM 49(1), 2002, pp. 1-15.
+3	11th October	Formal Grammar and Information Theory: Together Again?	F. Pereira	Phil. Trans. R. Soc. Lond. A, 358, 2000, pp. 1239-1253.
+4	25th October	One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse Relations	Y. Ji and J. Eisenstein	Transactions of the Association for Computational Linguistics 3, 2015, pp. 329-344
+5	22nd November	Deterministic Coreference Resolution Based on Entity-Centric, Precision-Ranked Rules	H. Lee et al.	Computational Linguistics 39(4), 2013, pp. 885-916
+
+links:
+1.http://www.cs.toronto.edu/~gpenn/csc485//Essay1.pdf
+2.http://www.cs.toronto.edu/~gpenn/csc485//Essay2.pdf
+3.http://www.cs.toronto.edu/~gpenn/csc485//Essay3.pdf
+4.https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00142
+5.https://www.mitpressjournals.org/doi/10.1162/COLI_a_00152
+

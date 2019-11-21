@@ -1,0 +1,6 @@
+Required	D. Jurafsky & J. Martin, Speech and Language Processing, Prentice Hall, 2nd ed., 2009.	Errata
+Required	S. Bird, E. Klein and E. Loper, Natural Language Processing with Python, O'Reilly, 2009.  http://www.nltk.org/book/
+Recommended	Martelli, Ravenscroft and Holden.  Python in a Nutshell, 3rd ed., O'Reilly, 2017.	
+Optional	J. Allen,   Natural Language Understanding, 2nd ed., Pearson, 1994.	
+Recommended	D. Mertz,  Text Processing in Python, Addison Wesley, 2003. http://gnosis.cx/TPiP/
+Free!	various tutorials on the Python website https://www.python.org/
